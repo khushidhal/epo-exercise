@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(251, 245, 237);
+}
+
+.navbar{
+    height:70px;
+}
+
+.nav{
+    display:inline-block;
+    margin-left: 1000px;
+}
+
+.nav-item{
+    margin: 30px;
+    font-size: 17px ;
+}
+
+.nav-item:hover{
+    font-size: 18px;
+    font-weight:400;
+    cursor: pointer;
+}
+
+.main{
+    margin-top: 100px;
+    margin-left: 36%;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.class{
+    margin-top: 20px;
+    margin-left: 43%;
+    margin-bottom: 10px;
+}
+
+.classbtn{
+    margin-left: 48%;
+    background-color:rgb(32, 109, 109);
+}
+
+.classbtn:hover{
+    background-color: rgb(18, 131, 137);
+}
+
+.dropdown-item{
+    margin: auto;
+}
+
+.subbtn{
+    margin-left: 47.5%;
+    background-color:rgb(32, 109, 109);
+}
+
+.subbtn:hover{
+    background-color: rgb(18, 131, 137);
+}
+
+.submitbtn{
+    margin-left: 47%;
+    margin-top: 70px;
+    padding: 10px 50px;
+    background-color: rgb(44, 22, 56);
+}
+
+.submitbtn:hover{
+    background-color: rgb(83, 44, 103);
+}
+
+h1{
+    background-color: #FFC000;
+    color: black;
+    font-size: larger;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 70px 20px 0px 20px;
+    padding: 20px 0 20px 50%;
+}
+
+.h21{
+    color: #00a778;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.first{
+    margin-left: 90px;
+    margin-top: 130px;
+}
+
+.img1,.img2,.img3{
+    float: right;
+    margin-right: 190px;
+    border-radius: 10px;
+    width: 450px;
+}
+
+.second,.third{
+    margin-left: 90px;
+    margin-top: 400px;
+}
+
+.h22{
+    color: #f6606a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.h23{
+    color: #009fbb;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
